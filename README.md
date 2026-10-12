@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=Elkhan%20Hasanov&fontColor=39d353&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Java%20%7C%20.NET&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=Elkhan%20Hasanov&fontColor=39d353&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
 <div align="center">
 
