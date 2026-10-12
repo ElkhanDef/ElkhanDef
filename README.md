@@ -1,9 +1,9 @@
 <!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=ret2owl&fontColor=39d353&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Night%20Shift&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=Elkhan%20Hasanov&fontColor=39d353&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Java%20%7C%20.NET&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Elkhan+%F0%9F%91%8B;aka+ret2owl+%F0%9F%A6%89;Software+Engineer+%7C+Backend;while(night)+%7B+code();+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Elkhan+%F0%9F%91%8B;Software+Engineer+%7C+Backend;Clean+code.+Strong+architecture.;while(night)+%7B+code();+%7D" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,6 @@ $ cat ~/.profile
 ```
 ```yaml
 name:       Elkhan Hasanov
-alias:      ret2owl
 role:       Software Engineer
 focus:      Backend • APIs • Databases
 languages:  [ C#, Java, SQL ]
