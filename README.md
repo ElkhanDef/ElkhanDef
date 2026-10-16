@@ -74,4 +74,4 @@ mindset:    "Clean code. Strong architecture. Keep learning."
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a3d2e,100:0D1117&height=120&section=footer&text=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&fontColor=39d353&fontSize=15&fontAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a3d2e,100:0D1117&height=120&section=footer&text=Every%20bug%20a%20lesson%2C%20every%20lesson%20a%20commit.&fontColor=39d353&fontSize=15&fontAlignY=75" width="100%" />
