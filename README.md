@@ -1,7 +1,11 @@
 <!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=Elkhan%20Hasanov&fontColor=39d353&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d2e,100:39d353&height=200&section=header&text=Elkhan%20Hasanov&fontColor=39d353&fontSize=55&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <div align="center">
+
+<a href="https://github.com/ElkhanDef">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Software+Engineer" alt="Software Engineer" />
+</a>
 
 <p><b>Backend Engineer · C# / .NET · Java / Spring Boot</b></p>
 <p><i>Designing reliable APIs and scalable backend systems.</i></p>
